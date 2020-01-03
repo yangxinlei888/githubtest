@@ -14,7 +14,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("worlddddadddddaaaccccccca");
+	printf("worlddddacccca");
 	
 	return 0;
 }
